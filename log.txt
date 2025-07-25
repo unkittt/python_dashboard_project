@@ -1,0 +1,48 @@
+2025-07-19 02:46:28.003322 - Error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-07-19 16:14:09.407864 - Error: 401 Unauthorized
+89 - Invalid or expired token.
+2025-07-19 16:41:40.238998 - Error: 401 Unauthorized
+89 - Invalid or expired token.
+2025-07-19 18:19:40.336424 - Error: 401 Unauthorized
+89 - Invalid or expired token.
+2025-07-19 18:33:00.976546 - Error: 401 Unauthorized
+89 - Invalid or expired token.
+2025-07-20 11:42:04.630971 - Error: 401 Unauthorized
+89 - Invalid or expired token.
+2025-07-20 18:10:07.437112 - Error: 401 Unauthorized
+89 - Invalid or expired token.
+2025-07-20 18:21:49.181104 - Error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-07-20 18:48:20.878720 - Error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-07-20 18:58:44.297383 - Error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-07-20 19:12:57.697433 - Error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-07-20 21:59:59.086258 - Error: Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/update.json?status=Kal+ki+chinta+mat+karo%2C+aaj+pe+dhyan+do.%0A%23aajkeachedin (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000159DBFB3C50>: Failed to resolve 'api.twitter.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-20 22:14:15.105607 - Error: Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/update.json?status=Muskurate+raho%2C+duniya+confuse+rahegi.%0A%23aajkeachedin (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000159DBFB2990>: Failed to resolve 'api.twitter.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-20 22:41:04.888171 - Error: Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/update.json?status=Sapne+wahi+sach+hote+hain+jinhe+hum+poora+karne+ki+koshish+karte+hain.%0A%23aajkeachedin (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000159DBFB3ED0>: Failed to resolve 'api.twitter.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-20 22:51:13.913321 - Error: Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/update.json?status=Asli+jeet+wahi+hai+jo+khud+se+ho.%0A%23aajkeachedin (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000159DBFB3250>: Failed to resolve 'api.twitter.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-20 23:06:05.513492 - Error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-07-20 23:24:27.063180 - Error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-07-20 23:38:55.708389 - Error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-07-20 23:57:29.303030 - Error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-07-21 00:17:24.783151 - Error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-07-21 00:37:02.225708 - Error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-07-21 00:53:47.735301 - Error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-07-21 01:04:50.231045 - Error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-07-21 01:21:12.665135 - Error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-07-21 01:34:21.380619 - Error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-07-22 12:21:26.063902 - Error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
