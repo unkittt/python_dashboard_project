@@ -1,3 +1,5 @@
+# Yeh code ek folder ke andar jitne bhi Excel files hain, unme se phone numbers count karega.
+
 import os
 import pandas as pd
 
@@ -18,3 +20,4 @@ for file in os.listdir(folder_path):
             print(f"Error in {file}: {e}")
 
 print("Total phone numbers (sab  files mila ke):", total_numbers)
+
